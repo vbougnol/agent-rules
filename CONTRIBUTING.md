@@ -1,4 +1,4 @@
-# Contributing to True Rules
+# Contributing to Agent Rules
 
 ## Before updating a rule
 
